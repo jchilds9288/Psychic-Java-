@@ -1,0 +1,10 @@
+.jumbotron {
+    background-image: url("psychic.jpg");
+    color: white;
+}
+
+h1 {
+    text-outline:2px 2px rgb(255, 0, 157) ;
+}
+
+
